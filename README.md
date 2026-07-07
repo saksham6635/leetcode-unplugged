@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3560-find-minimum-log-transportation-cost](https://github.com/saksham6635/leetcode-unplugged/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
