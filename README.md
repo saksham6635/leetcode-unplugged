@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3379-transformed-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3379-transformed-array) |
 | [3582-generate-tag-for-video-caption](https://github.com/saksham6635/leetcode-unplugged/tree/master/3582-generate-tag-for-video-caption) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## String
 |  |
 | ------- |
 | [3210-find-the-encrypted-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3210-find-the-encrypted-string) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3582-generate-tag-for-video-caption](https://github.com/saksham6635/leetcode-unplugged/tree/master/3582-generate-tag-for-video-caption) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
 |  |
 | ------- |
