@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 ## Two Pointers
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
