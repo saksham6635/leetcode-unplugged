@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Bit Manipulation
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
