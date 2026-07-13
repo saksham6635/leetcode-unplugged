@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/1291-sequential-digits) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search
 |  |
