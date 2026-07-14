@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3452-sum-of-good-numbers) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3917-count-indices-with-opposite-parity](https://github.com/saksham6635/leetcode-unplugged/tree/master/3917-count-indices-with-opposite-parity) |
 ## Simulation
 |  |
 | ------- |
