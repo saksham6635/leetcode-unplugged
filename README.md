@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/saksham6635/leetcode-unplugged/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3210-find-the-encrypted-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3210-find-the-encrypted-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
