@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3379-transformed-array) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3452-sum-of-good-numbers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saksham6635/leetcode-unplugged/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/saksham6635/leetcode-unplugged/tree/master/3917-count-indices-with-opposite-parity) |
 ## Simulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saksham6635/leetcode-unplugged/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saksham6635/leetcode-unplugged/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
