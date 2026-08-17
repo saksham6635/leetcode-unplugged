@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/saksham6635/leetcode-unplugged/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/saksham6635/leetcode-unplugged/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/saksham6635/leetcode-unplugged/tree/master/0476-number-complement) |
+| [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saksham6635/leetcode-unplugged/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
