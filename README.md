@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3210-find-the-encrypted-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3210-find-the-encrypted-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/saksham6635/leetcode-unplugged/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/saksham6635/leetcode-unplugged/tree/master/0476-number-complement) |
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -132,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
