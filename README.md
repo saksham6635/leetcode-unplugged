@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1859-sorting-the-sentence) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saksham6635/leetcode-unplugged/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1859-sorting-the-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/saksham6635/leetcode-unplugged/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
