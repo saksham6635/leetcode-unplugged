@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/saksham6635/leetcode-unplugged/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saksham6635/leetcode-unplugged/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
