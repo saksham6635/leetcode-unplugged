@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3379-transformed-array) |
 | [3582-generate-tag-for-video-caption](https://github.com/saksham6635/leetcode-unplugged/tree/master/3582-generate-tag-for-video-caption) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2785-sort-vowels-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2785-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3210-find-the-encrypted-string) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
