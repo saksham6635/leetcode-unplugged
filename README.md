@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-generate-tag-for-video-caption](https://github.com/saksham6635/leetcode-unplugged/tree/master/3582-generate-tag-for-video-caption) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/saksham6635/leetcode-unplugged/tree/master/3856-trim-trailing-vowels) |
+| [3931-check-adjacent-digit-differences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
 | ------- |
