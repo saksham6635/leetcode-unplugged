@@ -4,8 +4,9 @@ class Solution:
         max_element=max(nums)
         for i in range(k,max_element+k+1):
             if i%k==0 and i not in nums:
-                l.append(i)
-        return min(l)
+                a=i
+                break
+        return a
                 
                 
         
