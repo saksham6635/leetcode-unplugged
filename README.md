@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
+| [2490-circular-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2785-sort-vowels-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/saksham6635/leetcode-unplugged/tree/master/2810-faulty-keyboard) |
