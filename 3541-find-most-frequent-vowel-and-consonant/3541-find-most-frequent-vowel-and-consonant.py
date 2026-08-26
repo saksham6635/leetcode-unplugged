@@ -1,23 +1,14 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
         d={'a', 'e', 'i', 'o', 'u'}
-        freq={}
-        l,m=[],[]
+        vowel=[0]*26
+        consonant=[0]*26
         for i in s:
+            idx=ord(i)-97
             if i in d:
-                freq[i]=freq.get(i,0)+1
-                l.append(freq[i])
+                vowel[idx]+=1
             else:
-                freq[i]=freq.get(i,0)+1
-                m.append(freq[i])
-        if len(l)>0 and len(m)>0:
-            return max(l)+max(m)
-        elif len(l)==0 and len(m)>0:
-            return max(m)
-        elif len(l)>0 and len(m)==0:
-            return max(l)
-        else:
-            return 0
-        
+                consonant[idx]+=1
+        return max(vowel)+max(consonant)       
             
         
