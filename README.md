@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
+| [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/saksham6635/leetcode-unplugged/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saksham6635/leetcode-unplugged/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2785-sort-vowels-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2785-sort-vowels-in-a-string) |
+| [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
+| [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saksham6635/leetcode-unplugged/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Boyer–Moore Majority Vote Algorithm
