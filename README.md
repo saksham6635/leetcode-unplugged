@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/saksham6635/leetcode-unplugged/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
+| [0856-score-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1417-reformat-the-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1528-shuffle-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saksham6635/leetcode-unplugged/tree/master/0084-largest-rectangle-in-histogram) |
+| [0856-score-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0856-score-of-parentheses) |
 ## Counting
 |  |
 | ------- |
