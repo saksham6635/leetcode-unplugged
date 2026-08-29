@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1417-reformat-the-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1528-shuffle-string) |
+| [1694-reformat-phone-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1694-reformat-phone-number) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1859-sorting-the-sentence) |
