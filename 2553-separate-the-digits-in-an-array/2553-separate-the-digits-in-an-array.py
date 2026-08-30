@@ -6,7 +6,7 @@ class Solution:
             a=str(i)
             l.append(a)
         string="".join(l)
-        for i in string:
-            result.append(int(i))
-        return result
+        b=list(map(int,string))
+        return b
+        
         
