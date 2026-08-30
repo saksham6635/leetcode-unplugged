@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2032-two-out-of-three](https://github.com/saksham6635/leetcode-unplugged/tree/master/2032-two-out-of-three) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/saksham6635/leetcode-unplugged/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/saksham6635/leetcode-unplugged/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
