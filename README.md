@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2032-two-out-of-three](https://github.com/saksham6635/leetcode-unplugged/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2091-removing-minimum-and-maximum-from-array) |
