@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/saksham6635/leetcode-unplugged/tree/master/0657-robot-return-to-origin) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/saksham6635/leetcode-unplugged/tree/master/2810-faulty-keyboard) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2299-strong-password-checker-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
