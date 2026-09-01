@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/saksham6635/leetcode-unplugged/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/saksham6635/leetcode-unplugged/tree/master/3285-find-indices-of-stable-mountains) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/saksham6635/leetcode-unplugged/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3379-transformed-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3498-reverse-degree-of-a-string) |
