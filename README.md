@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/saksham6635/leetcode-unplugged/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saksham6635/leetcode-unplugged/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/saksham6635/leetcode-unplugged/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/saksham6635/leetcode-unplugged/tree/master/3783-mirror-distance-of-an-integer) |
 | [3899-angles-of-a-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3899-angles-of-a-triangle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3379-transformed-array) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3452-sum-of-good-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/saksham6635/leetcode-unplugged/tree/master/3663-find-the-least-frequent-digit) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saksham6635/leetcode-unplugged/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saksham6635/leetcode-unplugged/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/saksham6635/leetcode-unplugged/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3663-find-the-least-frequent-digit](https://github.com/saksham6635/leetcode-unplugged/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/3866-first-unique-even-element) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/saksham6635/leetcode-unplugged/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3663-find-the-least-frequent-digit](https://github.com/saksham6635/leetcode-unplugged/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/3866-first-unique-even-element) |
 ## Greedy
 |  |
