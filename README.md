@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
+| [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/saksham6635/leetcode-unplugged/tree/master/3560-find-minimum-log-transportation-cost) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3210-find-the-encrypted-string) |
+| [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -343,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
