@@ -1,12 +1,11 @@
 class Solution:
-    def findIntersectionValues(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        answer1,answer2=0,0
-        for i in range(len(nums1)):
-            if nums1[i] in nums2:
-                answer1+=1
-        for i in range(len(nums2)):
-            if nums2[i] in nums1:
-                answer2+=1
-        return [answer1,answer2]
-
-        
+    def findIntersectionValues(self, nums1: list[int], nums2: list[int]) -> list[int]:
+        ans1, ans2 = 0, 0
+        set1, set2 = set(nums1), set(nums2)
+        for num in nums1:
+            if num in set2:
+                ans1 += 1
+        for num in nums2:
+            if num in set1:
+                ans2 += 1
+        return [ans1, ans2]
