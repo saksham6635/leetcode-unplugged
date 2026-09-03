@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/saksham6635/leetcode-unplugged/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3899-angles-of-a-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3899-angles-of-a-triangle) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saksham6635/leetcode-unplugged/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3903-smallest-stable-index-i) |
