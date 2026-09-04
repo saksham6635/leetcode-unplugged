@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2553-separate-the-digits-in-an-array) |
+| [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
+| [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
