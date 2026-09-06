@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
+| [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0022-generate-parentheses) |
+| [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -391,11 +393,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
@@ -409,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
