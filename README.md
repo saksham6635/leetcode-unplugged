@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
+| [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saksham6635/leetcode-unplugged/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-two-out-of-three](https://github.com/saksham6635/leetcode-unplugged/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/saksham6635/leetcode-unplugged/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
