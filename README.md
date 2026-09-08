@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
 | [0697-degree-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
+| [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/saksham6635/leetcode-unplugged/tree/master/1046-last-stone-weight) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/saksham6635/leetcode-unplugged/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
 | [0856-score-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0856-score-of-parentheses) |
+| [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1417-reformat-the-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
+| [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
