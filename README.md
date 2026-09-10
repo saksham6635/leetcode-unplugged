@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
 | ------- |
