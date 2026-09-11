@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/saksham6635/leetcode-unplugged/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/saksham6635/leetcode-unplugged/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/saksham6635/leetcode-unplugged/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/saksham6635/leetcode-unplugged/tree/master/0844-backspace-string-compare) |
+| [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2109-adding-spaces-to-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
