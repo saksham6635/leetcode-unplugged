@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/saksham6635/leetcode-unplugged/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/saksham6635/leetcode-unplugged/tree/master/3285-find-indices-of-stable-mountains) |
 | [3295-report-spam-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/3295-report-spam-message) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saksham6635/leetcode-unplugged/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saksham6635/leetcode-unplugged/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saksham6635/leetcode-unplugged/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
