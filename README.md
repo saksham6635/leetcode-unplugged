@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/saksham6635/leetcode-unplugged/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
 | [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/saksham6635/leetcode-unplugged/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/saksham6635/leetcode-unplugged/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2109-adding-spaces-to-a-string) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/saksham6635/leetcode-unplugged/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/saksham6635/leetcode-unplugged/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/saksham6635/leetcode-unplugged/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/saksham6635/leetcode-unplugged/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/saksham6635/leetcode-unplugged/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saksham6635/leetcode-unplugged/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
