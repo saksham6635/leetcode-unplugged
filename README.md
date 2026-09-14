@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2562-find-the-array-concatenation-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham6635/leetcode-unplugged/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/saksham6635/leetcode-unplugged/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham6635/leetcode-unplugged/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
+| [2562-find-the-array-concatenation-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
