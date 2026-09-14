@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saksham6635/leetcode-unplugged/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saksham6635/leetcode-unplugged/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3483-unique-3-digit-even-numbers) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
 |  |
 | ------- |
