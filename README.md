@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
+| [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3024-type-of-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3024-type-of-triangle) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/saksham6635/leetcode-unplugged/tree/master/0409-longest-palindrome) |
+| [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/saksham6635/leetcode-unplugged/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2091-removing-minimum-and-maximum-from-array) |
