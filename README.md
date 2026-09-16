@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/saksham6635/leetcode-unplugged/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/saksham6635/leetcode-unplugged/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/saksham6635/leetcode-unplugged/tree/master/0657-robot-return-to-origin) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/saksham6635/leetcode-unplugged/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/saksham6635/leetcode-unplugged/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -533,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3024-type-of-triangle) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
