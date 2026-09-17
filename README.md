@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saksham6635/leetcode-unplugged/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
