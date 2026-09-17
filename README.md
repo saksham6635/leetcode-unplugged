@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/0292-nim-game) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0908-smallest-range-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1331-rank-transform-of-an-array) |
