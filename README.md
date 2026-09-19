@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/saksham6635/leetcode-unplugged/tree/master/0409-longest-palindrome) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/saksham6635/leetcode-unplugged/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
@@ -556,5 +561,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
