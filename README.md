@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3899-angles-of-a-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3899-angles-of-a-triangle) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/saksham6635/leetcode-unplugged/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saksham6635/leetcode-unplugged/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/saksham6635/leetcode-unplugged/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
