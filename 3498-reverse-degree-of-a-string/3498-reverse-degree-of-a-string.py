@@ -1,7 +1,12 @@
 class Solution:
     def reverseDegree(self, s: str) -> int:
         ans=0
-        for i in range(len(s)):
-            idx=(123-ord(s[i]))*(i+1)
-            ans+=idx
-        return ans
+        l=list(s)
+        k=[]
+        for i in l:
+            k.append(123-ord(i))
+        for i in range(len(k)):
+            deg=k[i]*(i+1)
+            ans+=deg
+        return ans 
+       
