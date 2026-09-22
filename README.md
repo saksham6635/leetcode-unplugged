@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/saksham6635/leetcode-unplugged/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1859-sorting-the-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1859-sorting-the-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/saksham6635/leetcode-unplugged/tree/master/2032-two-out-of-three) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2053-kth-distinct-string-in-an-array) |
