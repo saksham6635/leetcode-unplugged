@@ -6,7 +6,15 @@ class Solution:
         l=[]
         for i in string:
             f[i]=f.get(i,0)+1
-        for i in f:
-            l.append(f[i]%n)
-        return set(l)=={0}
+        equal=True
+        for i in f:    
+            if f[i]%n==0:
+                equal=True
+            else:
+                equal=False
+                break
+        if equal==False:
+            return False
+        return True
+
         
