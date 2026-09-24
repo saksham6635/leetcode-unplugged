@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
+| [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham6635/leetcode-unplugged/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2562-find-the-array-concatenation-value) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/1291-sequential-digits) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3483-unique-3-digit-even-numbers) |
