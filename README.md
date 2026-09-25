@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3024-type-of-triangle) |
 | [3227-vowels-game-in-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saksham6635/leetcode-unplugged/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saksham6635/leetcode-unplugged/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3024-type-of-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3024-type-of-triangle) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/3146-permutation-difference-between-two-strings) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saksham6635/leetcode-unplugged/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
