@@ -11,6 +11,7 @@ class Solution:
         for i in range(1,len(l)+1):
             if i not in l:
                 m.append(i)
+                break
         return m
         
                 
