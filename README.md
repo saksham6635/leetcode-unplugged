@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/saksham6635/leetcode-unplugged/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/2404-most-frequent-even-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
