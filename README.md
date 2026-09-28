@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saksham6635/leetcode-unplugged/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/saksham6635/leetcode-unplugged/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saksham6635/leetcode-unplugged/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/saksham6635/leetcode-unplugged/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/saksham6635/leetcode-unplugged/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saksham6635/leetcode-unplugged/tree/master/3898-find-the-degree-of-each-vertex) |
