@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1720-decode-xored-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saksham6635/leetcode-unplugged/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1991-find-the-middle-index-in-array) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/saksham6635/leetcode-unplugged/tree/master/0409-longest-palindrome) |
 | [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saksham6635/leetcode-unplugged/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/saksham6635/leetcode-unplugged/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2091-removing-minimum-and-maximum-from-array) |
