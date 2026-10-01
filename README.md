@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/saksham6635/leetcode-unplugged/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0541-reverse-string-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/saksham6635/leetcode-unplugged/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/saksham6635/leetcode-unplugged/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -649,4 +652,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saksham6635/leetcode-unplugged/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/saksham6635/leetcode-unplugged/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/saksham6635/leetcode-unplugged/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
