@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/saksham6635/leetcode-unplugged/tree/master/0383-ransom-note) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saksham6635/leetcode-unplugged/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/saksham6635/leetcode-unplugged/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/saksham6635/leetcode-unplugged/tree/master/0844-backspace-string-compare) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0032-longest-valid-parentheses) |
 | [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
