@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2325-decode-the-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2490-circular-sentence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2325-decode-the-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
