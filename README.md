@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham6635/leetcode-unplugged/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/saksham6635/leetcode-unplugged/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham6635/leetcode-unplugged/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
