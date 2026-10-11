@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/saksham6635/leetcode-unplugged/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3483-unique-3-digit-even-numbers) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3722-lexicographically-smallest-string-after-reverse) |
