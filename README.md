@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/saksham6635/leetcode-unplugged/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2815-max-pair-sum-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/saksham6635/leetcode-unplugged/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2815-max-pair-sum-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2815-max-pair-sum-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
