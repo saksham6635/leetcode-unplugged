@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/saksham6635/leetcode-unplugged/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/saksham6635/leetcode-unplugged/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saksham6635/leetcode-unplugged/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/1021-remove-outermost-parentheses) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/saksham6635/leetcode-unplugged/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/saksham6635/leetcode-unplugged/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1122-relative-sort-array) |
