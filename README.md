@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/saksham6635/leetcode-unplugged/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3379-transformed-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3379-transformed-array) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saksham6635/leetcode-unplugged/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saksham6635/leetcode-unplugged/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1991-find-the-middle-index-in-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/saksham6635/leetcode-unplugged/tree/master/2848-points-that-intersect-with-cars) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/3904-smallest-stable-index-ii) |
 ## Graph Theory
