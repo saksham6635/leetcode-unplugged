@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/saksham6635/leetcode-unplugged/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/0347-top-k-frequent-elements) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/saksham6635/leetcode-unplugged/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1991-find-the-middle-index-in-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/saksham6635/leetcode-unplugged/tree/master/2848-points-that-intersect-with-cars) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/3427-sum-of-variable-length-subarrays) |
