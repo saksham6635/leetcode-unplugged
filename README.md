@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2848-points-that-intersect-with-cars](https://github.com/saksham6635/leetcode-unplugged/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/saksham6635/leetcode-unplugged/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/saksham6635/leetcode-unplugged/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2815-max-pair-sum-in-an-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/saksham6635/leetcode-unplugged/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/1991-find-the-middle-index-in-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/saksham6635/leetcode-unplugged/tree/master/2848-points-that-intersect-with-cars) |
 | [3903-smallest-stable-index-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saksham6635/leetcode-unplugged/tree/master/3904-smallest-stable-index-ii) |
 ## Graph Theory
