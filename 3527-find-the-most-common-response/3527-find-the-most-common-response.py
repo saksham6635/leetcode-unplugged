@@ -14,9 +14,8 @@ class Solution:
         for i in freq:
             if freq[i]==freq[max_key]:
                 l.append(i)
-        if l:
-            return min(l)
-        return ""
+    
+        return min(l)
     
 
         
