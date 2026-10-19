@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/saksham6635/leetcode-unplugged/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3582-generate-tag-for-video-caption](https://github.com/saksham6635/leetcode-unplugged/tree/master/3582-generate-tag-for-video-caption) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/saksham6635/leetcode-unplugged/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/saksham6635/leetcode-unplugged/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saksham6635/leetcode-unplugged/tree/master/3884-first-matching-character-from-both-ends) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/saksham6635/leetcode-unplugged/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/3174-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/saksham6635/leetcode-unplugged/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/saksham6635/leetcode-unplugged/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saksham6635/leetcode-unplugged/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/saksham6635/leetcode-unplugged/tree/master/3663-find-the-least-frequent-digit) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/saksham6635/leetcode-unplugged/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/3866-first-unique-even-element) |
 ## Greedy
