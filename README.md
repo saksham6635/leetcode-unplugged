@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/saksham6635/leetcode-unplugged/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/saksham6635/leetcode-unplugged/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/saksham6635/leetcode-unplugged/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/saksham6635/leetcode-unplugged/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saksham6635/leetcode-unplugged/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/saksham6635/leetcode-unplugged/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/saksham6635/leetcode-unplugged/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/saksham6635/leetcode-unplugged/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/saksham6635/leetcode-unplugged/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/saksham6635/leetcode-unplugged/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
