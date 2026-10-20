@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saksham6635/leetcode-unplugged/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/saksham6635/leetcode-unplugged/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saksham6635/leetcode-unplugged/tree/master/3884-first-matching-character-from-both-ends) |
+| [3889-mirror-frequency-distance](https://github.com/saksham6635/leetcode-unplugged/tree/master/3889-mirror-frequency-distance) |
 | [3931-check-adjacent-digit-differences](https://github.com/saksham6635/leetcode-unplugged/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/3866-first-unique-even-element) |
+| [3889-mirror-frequency-distance](https://github.com/saksham6635/leetcode-unplugged/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saksham6635/leetcode-unplugged/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/3866-first-unique-even-element) |
+| [3889-mirror-frequency-distance](https://github.com/saksham6635/leetcode-unplugged/tree/master/3889-mirror-frequency-distance) |
 ## Greedy
 |  |
 | ------- |
