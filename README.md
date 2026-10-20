@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3024-type-of-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saksham6635/leetcode-unplugged/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/saksham6635/leetcode-unplugged/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/saksham6635/leetcode-unplugged/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/saksham6635/leetcode-unplugged/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saksham6635/leetcode-unplugged/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/3005-count-elements-with-maximum-frequency) |
