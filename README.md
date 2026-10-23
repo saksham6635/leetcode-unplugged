@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/saksham6635/leetcode-unplugged/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-two-out-of-three](https://github.com/saksham6635/leetcode-unplugged/tree/master/2032-two-out-of-three) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/saksham6635/leetcode-unplugged/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/saksham6635/leetcode-unplugged/tree/master/1291-sequential-digits) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/saksham6635/leetcode-unplugged/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/saksham6635/leetcode-unplugged/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/saksham6635/leetcode-unplugged/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saksham6635/leetcode-unplugged/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/saksham6635/leetcode-unplugged/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saksham6635/leetcode-unplugged/tree/master/0022-generate-parentheses) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
