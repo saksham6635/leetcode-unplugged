@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2409-count-days-spent-together](https://github.com/saksham6635/leetcode-unplugged/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-number-of-beautiful-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2748-number-of-beautiful-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/saksham6635/leetcode-unplugged/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/saksham6635/leetcode-unplugged/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/saksham6635/leetcode-unplugged/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/saksham6635/leetcode-unplugged/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/saksham6635/leetcode-unplugged/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/saksham6635/leetcode-unplugged/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
