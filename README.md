@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/1512-number-of-good-pairs) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2748-number-of-beautiful-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2748-number-of-beautiful-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/saksham6635/leetcode-unplugged/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/saksham6635/leetcode-unplugged/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/saksham6635/leetcode-unplugged/tree/master/3024-type-of-triangle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/saksham6635/leetcode-unplugged/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saksham6635/leetcode-unplugged/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/saksham6635/leetcode-unplugged/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2748-number-of-beautiful-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/2815-max-pair-sum-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/saksham6635/leetcode-unplugged/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/saksham6635/leetcode-unplugged/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saksham6635/leetcode-unplugged/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/saksham6635/leetcode-unplugged/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Heap (Priority Queue)
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saksham6635/leetcode-unplugged/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/saksham6635/leetcode-unplugged/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saksham6635/leetcode-unplugged/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2748-number-of-beautiful-pairs](https://github.com/saksham6635/leetcode-unplugged/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saksham6635/leetcode-unplugged/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/saksham6635/leetcode-unplugged/tree/master/3046-split-the-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/saksham6635/leetcode-unplugged/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
