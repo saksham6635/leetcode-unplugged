@@ -1,12 +1,19 @@
 class Solution:
     def countBeautifulPairs(self, nums: List[int]) -> int:
-        count=0
-        n=len(nums)
-        for i in range(n):
-            for j in range(i+1,n):
-                first=str(nums[i])[0]
-                last=str(nums[j])[-1]
-                if gcd(int(first),int(last))==1:
-                    count+=1
-        return count
-        
+        cnt = [0] * 10
+        ans = 0
+
+        for num in nums:
+            last = num % 10
+
+            for first in range(1, 10):
+                if gcd(first, last) == 1:
+                    ans += cnt[first]
+
+            while num >= 10:
+                num //= 10
+            first_digit = num
+
+            cnt[first_digit] += 1
+
+        return ans
